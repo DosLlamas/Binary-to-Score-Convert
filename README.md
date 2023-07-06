@@ -1,4 +1,6 @@
 This is the homework Paul Dakessian gave me after our interview where he said I can improve the following:
+
+
 -Don’t assume what they are going to ask and then start
 
 Tell me about yourself:
@@ -7,6 +9,7 @@ Tell me about yourself:
 Trying to become a developer
 
 Languages:
+
 React, Ruby on Rails
 
 -Looking for front end role, short answers. Sounds disengaged/uninterested
@@ -33,13 +36,21 @@ Front end focused
 Noisy background
 
 Coding:
+
 -No indents
+
 -Didn’t ask questions, just started coding
+
 -Didn’t write out steps talk through, or validate
+
 -Very inefficient, multi loops to break, Can use split
+
 -Good to talk through code
+
 -Oof the section1/2 split
+
 -Counts section isn’t going to work
+
 -Doubling
 
 Questions at end:
