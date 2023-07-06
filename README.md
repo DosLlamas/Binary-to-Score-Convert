@@ -9,6 +9,7 @@ Tell me about yourself:
 Trying to become a developer
 
 Languages:
+
 React, Ruby on Rails
 
 -Looking for front end role, short answers. Sounds disengaged/uninterested
@@ -35,6 +36,7 @@ Front end focused
 Noisy background
 
 Coding:
+
 -No indents
 -Didn’t ask questions, just started coding
 -Didn’t write out steps talk through, or validate
