@@ -1,4 +1,6 @@
 This is the homework Paul Dakessian gave me after our interview where he said I can improve the following:
+
+
 -Don’t assume what they are going to ask and then start
 
 Tell me about yourself:
