@@ -38,12 +38,19 @@ Noisy background
 Coding:
 
 -No indents
+
 -Didn’t ask questions, just started coding
+
 -Didn’t write out steps talk through, or validate
+
 -Very inefficient, multi loops to break, Can use split
+
 -Good to talk through code
+
 -Oof the section1/2 split
+
 -Counts section isn’t going to work
+
 -Doubling
 
 Questions at end:
