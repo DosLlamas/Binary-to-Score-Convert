@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1 Counter</title>
+     <!-- bootstrap css -->
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+     integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="/">Binary to Score Convert</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="https://www.linkedin.com/in/nathan-foss">Message me on LinkedIn</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="code.html">View the code</a>
+                  </li>
+                </ul>
+                
+              </div>
+            </div>
+          </nav>
+    </header>
+    <div class="container">
+        <div class="card-body justify-content-center">
+            <div class="card w-75">
+                <div class="card-body">
+                    <h5 class="card-title">Directions</h5>
+                    <p class="card-text"> 
+                        Count the number of 1s in each section of a binary string; Each section separated by a period.
+                        <br/>
+                        Then, add up a score of all the 1s from each section as so:
+                        <p>0-0</p>
+                        <p>1-1</p>
+                        <p>2-2</p>
+                        <p>3-4</p>
+                        <p>4-8</p>
+                        <p>5-16</p>
+                        <p>...</p>
+                        Example string input:
+                        10101010.11111111.00000000.10101000</p>
+                    <form class="form1">
+                        <input style="height: 35px;" type="text" id="enter-binary" placeholder="Enter a binary">
+                        <button type="button" class="btn btn-info" onclick="return getScore()">Get Score</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="content.js"></script>
+</body>
+</html>
